@@ -48,6 +48,9 @@ On Proceed:
 ![image](https://user-images.githubusercontent.com/92938137/171377991-69c4a34d-73cf-4b12-9677-1703ff1001f0.png)
 ![image](https://user-images.githubusercontent.com/92938137/171378153-dfca9e85-5b81-43e8-82da-b544e513ca16.png)
 
+- Post Implementation Netlist simulation
+![image](https://user-images.githubusercontent.com/92938137/171383823-d4bab131-07a7-4ac2-9bd5-d50e756db54f.png)
+
 
 
 
