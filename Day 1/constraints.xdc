@@ -9,3 +9,5 @@ set_property PACKAGE_PIN R2 [get_ports rst]
 set_property PACKAGE_PIN L1 [get_ports {counter_out[3]}]
 set_property PACKAGE_PIN P1 [get_ports {counter_out[2]}]
 set_property PACKAGE_PIN N3 [get_ports {counter_out[1]}]
+
+create_clock -period 10.000 -name clk -waveform {0.000 5.000} [get_ports clk]
