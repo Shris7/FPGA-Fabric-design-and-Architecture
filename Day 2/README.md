@@ -31,3 +31,25 @@ On Proceed:
 ![image](https://user-images.githubusercontent.com/92938137/171371274-c5d69573-72b5-4c71-9282-cdd1975b344e.png)
 ![image](https://user-images.githubusercontent.com/92938137/171371046-3fbd8627-a09e-4a90-b806-d94329449ccf.png)
    - Thus we notice that the slack is positive and is met.
+- VTR Script run for counter.v
+
+![image](https://user-images.githubusercontent.com/92938137/171374960-11846eff-df5d-4059-9b17-3acaac0ccfab.png)
+![image](https://user-images.githubusercontent.com/92938137/171375206-3f442f17-e1cd-456e-bdb9-cd8599a69ddb.png)
+
+- VTR flow - VPR GUI
+![image](https://user-images.githubusercontent.com/92938137/171376123-25e2e205-65ac-4ac3-9c7e-79941b3816ca.png)
+
+- Complete VTR Flow
+   -Remove the `--analysis` command
+![image](https://user-images.githubusercontent.com/92938137/171377015-b9861c1b-8689-4259-8197-e0f1f580620b.png)
+![image](https://user-images.githubusercontent.com/92938137/171377220-7e413141-0ac8-4069-8f3f-d5a7d273aabd.png)
+
+- Generate post implementation netlist
+![image](https://user-images.githubusercontent.com/92938137/171377991-69c4a34d-73cf-4b12-9677-1703ff1001f0.png)
+![image](https://user-images.githubusercontent.com/92938137/171378153-dfca9e85-5b81-43e8-82da-b544e513ca16.png)
+
+
+
+
+
+
