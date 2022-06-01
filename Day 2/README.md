@@ -27,4 +27,7 @@ On Proceed:
 - Since no constraints are provided,it shows that the slack is violated
 ![image](https://user-images.githubusercontent.com/92938137/171357509-83a27e1d-999a-45d0-82e7-5d4dd5822018.png)
 - To avoid this we write a .sdc file
-
+![image](https://user-images.githubusercontent.com/92938137/171367534-adaf71a6-3f79-4f69-9518-dfea1ee2960a.png)
+![image](https://user-images.githubusercontent.com/92938137/171371274-c5d69573-72b5-4c71-9282-cdd1975b344e.png)
+![image](https://user-images.githubusercontent.com/92938137/171371046-3fbd8627-a09e-4a90-b806-d94329449ccf.png)
+   - Thus we notice that the slack is positive and is met.
