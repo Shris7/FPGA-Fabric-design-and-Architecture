@@ -43,3 +43,7 @@
 ![image](https://user-images.githubusercontent.com/92938137/171322626-4b47acca-7509-49f9-86db-f56d9c816beb.png)
 ![image](https://user-images.githubusercontent.com/92938137/171322651-a4436351-9808-49f4-8d08-8d861c4ce098.png)
 
+# VIO - Virtual Input/Output
+- Reset is the output from the VIO and it is provided as the input to th counter.
+- Output of the counter is connected to the VIO and therefore is the input to the VIO.
+![image](https://user-images.githubusercontent.com/92938137/171323116-2b03f758-c252-479c-91a2-61a640bb32f9.png)
