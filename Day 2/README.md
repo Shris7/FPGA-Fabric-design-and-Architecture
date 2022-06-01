@@ -51,6 +51,14 @@ On Proceed:
 - Post Implementation Netlist simulation
 ![image](https://user-images.githubusercontent.com/92938137/171383823-d4bab131-07a7-4ac2-9bd5-d50e756db54f.png)
 
+- Timing Analysis
+  - With 10ns clock 
+![image](https://user-images.githubusercontent.com/92938137/171391274-e0b02553-5f23-4d6c-938c-67873968004f.png)
+
+- Area Analysis
+![image](https://user-images.githubusercontent.com/92938137/171391945-34fadcd2-ae3d-4c07-9edc-3653b6320ca9.png)
+![image](https://user-images.githubusercontent.com/92938137/171392036-04c0413c-2207-46c3-9f65-b7e49a341a72.png)
+
 
 
 
