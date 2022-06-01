@@ -47,3 +47,11 @@
 - Reset is the output from the VIO and it is provided as the input to th counter.
 - Output of the counter is connected to the VIO and therefore is the input to the VIO.
 ![image](https://user-images.githubusercontent.com/92938137/171323116-2b03f758-c252-479c-91a2-61a640bb32f9.png)
+
+- Set up the VIO using IP Catalog
+![image](https://user-images.githubusercontent.com/92938137/171323988-c498b990-2790-4055-b3fb-05b52233311a.png)
+
+- Project summary using VIO
+
+![image](https://user-images.githubusercontent.com/92938137/171326975-e3565409-94f6-4ff7-987e-bff626766ae9.png)
+![image](https://user-images.githubusercontent.com/92938137/171327035-4faf85b7-2e9a-45f6-9bcb-477b02428865.png)
