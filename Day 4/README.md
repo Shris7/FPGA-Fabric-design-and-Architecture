@@ -2,6 +2,7 @@
 - SOFA (Skywater Opensource FPGAs) are a series of open-source FPGA IPs using the open-source Skywater 130nm PDK and OpenFPGA framework.
 ![image](https://user-images.githubusercontent.com/92938137/171554026-e6d6c00a-b27e-4ba8-a35d-3e42e6f48293.png)
 ![image](https://user-images.githubusercontent.com/92938137/171554126-70061739-29b8-4b91-abd4-49e72e29d3fc.png)
+- Install SOFA refering to the steps [here](https://github.com/lnis-uofu/SOFA)
 - OpenFPGA Run
 
 ![image](https://user-images.githubusercontent.com/92938137/171554919-72f423f3-72b0-42ea-a8a0-c611c21988dd.png)
