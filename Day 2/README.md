@@ -57,7 +57,7 @@ On Proceed:
 
 - Area Analysis
 ![image](https://user-images.githubusercontent.com/92938137/171391945-34fadcd2-ae3d-4c07-9edc-3653b6320ca9.png)
-![image](https://user-images.githubusercontent.com/92938137/171392036-04c0413c-2207-46c3-9f65-b7e49a341a72.png)
+![image](https://user-images.githubusercontent.com/92938137/171594972-ad0a9ed5-c6ac-4dd3-b8a2-546d624cfbd2.png)
 
 
 
