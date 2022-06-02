@@ -13,5 +13,8 @@
 ![image](https://user-images.githubusercontent.com/92938137/171557188-b69e1247-256f-484f-88ee-bca316e6bad1.png)
 ![image](https://user-images.githubusercontent.com/92938137/171557419-5294e381-eb0e-4924-b61c-7027ef86188b.png)
 - Setup timing report
+
 ![image](https://user-images.githubusercontent.com/92938137/171559632-8862cece-a59d-4f61-9543-6fc3aece9ad4.png)
 - Hold timing report 
+
+![image](https://user-images.githubusercontent.com/92938137/171583379-89bf2a1b-0c51-45af-bf61-05e19a438fcf.png)
