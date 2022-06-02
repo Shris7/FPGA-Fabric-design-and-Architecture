@@ -20,7 +20,7 @@ module test();
 reg clk, reset;
 wire [7:0] out;
 
-core uut (clk,reset,out[0],out[1],out[2],out[3],out[4],out[5],out[6],out[7]);
+    core uut (clk,reset,out[7:0]);
 
 //initial $sdf_annotate("/home/nanditha/Dropbox/vsd/fpga-vsd-slides/Day3/post_synth_files/up_counter_post_synthesis.sdf", uut);
 
