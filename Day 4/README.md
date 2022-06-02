@@ -1,6 +1,6 @@
 ## INTRODUCTION TO SOFA FPGA FABRIC IP
 - SOFA (Skywater Opensource FPGAs) are a series of open-source FPGA IPs using the open-source Skywater 130nm PDK and OpenFPGA framework.
-- ![image](https://user-images.githubusercontent.com/92938137/171554026-e6d6c00a-b27e-4ba8-a35d-3e42e6f48293.png)
+![image](https://user-images.githubusercontent.com/92938137/171554026-e6d6c00a-b27e-4ba8-a35d-3e42e6f48293.png)
 ![image](https://user-images.githubusercontent.com/92938137/171554126-70061739-29b8-4b91-abd4-49e72e29d3fc.png)
 - OpenFPGA Run
 
@@ -18,3 +18,7 @@
 - Hold timing report 
 
 ![image](https://user-images.githubusercontent.com/92938137/171583379-89bf2a1b-0c51-45af-bf61-05e19a438fcf.png)
+- Post Implementation
+
+![image](https://user-images.githubusercontent.com/92938137/171589672-12f2a00a-99dd-428b-a261-53dedf37af7b.png)
+![image](https://user-images.githubusercontent.com/92938137/171591811-4e060f77-843c-4825-98a1-a9f3364b163f.png)
