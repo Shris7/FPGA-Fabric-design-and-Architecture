@@ -22,3 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/92938137/171589672-12f2a00a-99dd-428b-a261-53dedf37af7b.png)
 ![image](https://user-images.githubusercontent.com/92938137/171591811-4e060f77-843c-4825-98a1-a9f3364b163f.png)
+- Power Analysis
+
+![image](https://user-images.githubusercontent.com/92938137/171593968-1b68e760-e568-4dbb-ad95-88e19006bc2c.png)
