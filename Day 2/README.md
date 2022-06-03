@@ -59,6 +59,10 @@ On Proceed:
 ![image](https://user-images.githubusercontent.com/92938137/171391945-34fadcd2-ae3d-4c07-9edc-3653b6320ca9.png)
 ![image](https://user-images.githubusercontent.com/92938137/171594972-ad0a9ed5-c6ac-4dd3-b8a2-546d624cfbd2.png)
 
+- Power Analysis
+
+![image](https://user-images.githubusercontent.com/92938137/171872894-982859e5-79a1-441b-8f38-b71021de964c.png)
+![image](https://user-images.githubusercontent.com/92938137/171873178-ad905ea3-fbc2-4d75-b3f6-c73ddb1cb94e.png)
 
 
 
